@@ -22,7 +22,7 @@ int Count(const char* str)
     return count;
 }
 
-char* Replace(char* str)
+char* Replace(const char* str)
 {
     if (str == nullptr)
         return nullptr;
@@ -37,7 +37,6 @@ char* Replace(char* str)
 
     size_t max_new_len = 2 * len + 1;
     char* tmp = new char[max_new_len];
-    tmp[0] = '\0';
     char* t = tmp;
 
     size_t i = 0;
@@ -63,9 +62,7 @@ char* Replace(char* str)
         *t = '\0';
     }
 
-    strcpy(str, tmp);
-
-    return tmp; 
+    return tmp;
 }
 
 int main()
@@ -82,8 +79,8 @@ int main()
         char* result = Replace(str);
         if (result != nullptr)
         {
-            cout << "Modified string (param) : " << str << endl;
-            cout << "Modified string (result): " << result << endl;
+            cout << "Original string : " << str << endl;
+            cout << "Modified string : " << result << endl;
             delete[] result;
         }
         else
