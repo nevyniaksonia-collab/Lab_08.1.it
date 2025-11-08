@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB239DA-8CFD-4274-9E45-E9E8D4626F29}|Lab_08.1.it\\Lab_08.1.it.vcxproj|C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.it\\Lab_08.1.it\\Lab_08.1.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AB239DA-8CFD-4274-9E45-E9E8D4626F29}|Lab_08.1.it\\Lab_08.1.it.vcxproj|solutionrelative:Lab_08.1.it\\Lab_08.1.it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_08.1.it.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.it\\Lab_08.1.it\\Lab_08.1.it.cpp",
+              "RelativeDocumentMoniker": "Lab_08.1.it\\Lab_08.1.it.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u042E\u043B\u044F\\Lab_08.1.it\\Lab_08.1.it\\Lab_08.1.it.cpp",
+              "RelativeToolTip": "Lab_08.1.it\\Lab_08.1.it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T19:15:40.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
